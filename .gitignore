@@ -1,10 +1,7 @@
-/plugins
-/shims
-/version
-/versions
-/sources
-/cache
-/libexec/*.dylib
-/src/Makefile
-/src/*.o
-/gems
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+*.gem
+*.gemspec
+Gemfile.lock

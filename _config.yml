@@ -1,0 +1,18 @@
+# Jekyll Configuration
+title: Smooth Operation of Law
+author: Ramon De Leon
+description: A blog about law and smooth operations
+url: https://RamonDeLeon.github.io/rbenv
+baseurl: /rbenv
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown processor
+markdown: kramdown
+
+# Permalink structure
+permalink: /:categories/:year/:month/:day/:title:output_ext
